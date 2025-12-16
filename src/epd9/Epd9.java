@@ -17,6 +17,7 @@ public class Epd9 {
         System.out.println("Hola master");
         System.out.println("Hola develop");
         System.out.println("Desde develop");
+        System.out.println("Nueva funcionalidad");
     }
     
 }
